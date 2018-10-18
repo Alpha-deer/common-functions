@@ -1,2 +1,2 @@
 # js-functions
-常用js函数
+常用的js函数集合
