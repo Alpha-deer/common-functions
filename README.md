@@ -1,2 +1,2 @@
-# common-functions
-日常开发常用的函数
+# js-functions
+常用js函数
